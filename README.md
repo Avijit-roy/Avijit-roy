@@ -1,11 +1,11 @@
 <img align="center" alt="Coding" width="1000" height="250" src="https://s8.gifyu.com/images/tech-x-aj.gif">
 <h1 align="center">Hi 👋, I'm Avijit roy   <img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" alt="loding" width="80" height="80"></h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/09/anime-thank-you-gif-11.gif">
+<p align="right"><img alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/09/anime-thank-you-gif-11.gif" align="right"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avijit-roy&label=Profile%20views&color=0e75b6&style=flat" alt="avijit-roy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@𝐀𝐯𝐢𝐣𝐢𝐭𝐑𝟔𝟕𝟏𝟖𝟎𝟒𝟓𝟏" target="blank"><img src="https://img.shields.io/twitter/follow/@𝐀𝐯𝐢𝐣𝐢𝐭𝐑𝟔𝟕𝟏𝟖𝟎𝟒𝟓𝟏?logo=twitter&style=for-the-badge" alt="@𝐀𝐯𝐢𝐣𝐢𝐭𝐑𝟔𝟕𝟏𝟖𝟎𝟒𝟓𝟏" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AvijitR67180451" target="blank"><img src="https://img.shields.io/twitter/follow/AvijitR67180451?logo=twitter&style=for-the-badge" alt="AvijitR67180451" /></a> </p>
 
 - 🔭 I’m currently working on **a web hosting software**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">connect with me on</h3>
 <p align="left">
-<a href="https://www.instagram.com/_avijit_.roy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@AvijitR67180451" height="30" width="40" /></a>
+<a href=https://twitter.com/AvijitR67180451 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@AvijitR67180451" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/avijit roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avijit roy" height="30" width="40" /></a>
 <a href="https://instagram.com/_avijit_.roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_avijit_.roy" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/cn2XTJBS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cn2XTJBS" height="30" width="40" /></a>
@@ -33,7 +33,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/x Aj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="x Aj" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avijit-roy&show_icons=true&locale=en&layout=compact" alt="avijit-roy" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=avijit-roy&show_icons=true&locale=en&layout=compact" alt="avijit-roy" /></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avijit-roy&show_icons=true&locale=en" alt="avijit-roy" /></p>
 
