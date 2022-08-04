@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="90%" height="250" src="https://s8.gifyu.com/images/tech-x-aj.gif">
+<img align="center" alt="Coding" width="100%" height="250" src="https://s8.gifyu.com/images/tech-x-aj.gif">
 <h1 align="center">Hi 👋, I'm Avijit roy   <img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" alt="loding" width="80" height="80"></h1>
 <h3 align="center">A passionate web developer from India</h3>
 <p align="right"><img alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/09/anime-thank-you-gif-11.gif" align="right"></p>
