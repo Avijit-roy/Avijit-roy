@@ -33,10 +33,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/x Aj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="x Aj" /></a></p><br><br>
 
-<!--
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=avijit-roy&show_icons=true&locale=en&layout=compact" alt="avijit-roy" /></p>
--->
 
-<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=avijit-roy&show_icons=true&locale=en" alt="avijit-roy" /></p>
 
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=avijit-roy&" alt="avijit-roy" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api?username=avijit-roy&show_icons=true&locale=en" alt="avijit-roy" /></p>
+
+
