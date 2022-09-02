@@ -3,7 +3,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 <p align="right"><img alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/09/anime-thank-you-gif-11.gif" align="right"></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avijit-roy&label=Profile%20views&color=0e75b6&style=flat" alt="avijit-roy" /> </p>
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
 <p align="left"> <a href="https://twitter.com/AvijitR67180451" target="blank"><img src="https://img.shields.io/twitter/follow/AvijitR67180451?logo=twitter&style=for-the-badge" alt="AvijitR67180451" /></a> </p>
 
