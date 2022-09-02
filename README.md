@@ -33,10 +33,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/x Aj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="x Aj" /></a></p><br><br>
 
-<div align="center" border="none">
+<div align="center">
 <table>
 <tr>
-<td width="70%">
+<td width="45%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avijit-roy&show_icons=true&locale=en&layout=compact" alt="avijit-roy" />
 </td>
 </tr>
