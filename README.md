@@ -33,7 +33,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/x Aj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="x Aj" /></a></p><br><br>
 
-<div align="center">
+<div align="center" border="none">
 <table>
 <tr>
 <td width="45%">
