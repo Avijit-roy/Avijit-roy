@@ -38,5 +38,18 @@
 
 
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api?username=avijit-roy&show_icons=true&locale=en" alt="avijit-roy" /></p>
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=avijit-roy&" alt="avijit-roy" /></p>
+<div align="center">
+<table>
+<tr>
+<td width="45%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=playatanu&show_icons=true&background=5A9BF000&hide_border=true" alt="Playatanu">
+</td>
+<td width="45%">
+ <img src="https://github-readme-stats.vercel.app/api?username=playatanu&bg_color=5A9BF000include_all_commits=true&count_private=true&hide_border=true">
+</table>
+</div>
+</td>
+</tr>
 
 
