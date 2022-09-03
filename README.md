@@ -36,17 +36,13 @@
 <div align="center">
 <table>
 <tr>
-<td width="45%">
+<td width="30%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avijit-roy&show_icons=true&locale=en&layout=compact" alt="avijit-roy" />
 </td>
-</tr>
-<tr>
-<td width="45%">
+<td width="30%">
 <img align="centre" src="https://github-readme-stats.vercel.app/api?username=avijit-roy&show_icons=true&locale=en" alt="avijit-roy" />
 </td>
-</tr>
- <tr>
-<td width="45%">
+<td width="30%">
 <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=avijit-roy&" alt="avijit-roy" />
 </td>
 </tr>
