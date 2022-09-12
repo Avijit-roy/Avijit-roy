@@ -2,10 +2,8 @@
 <h1 align="center">Hi 👋, I'm Avijit roy   <img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" alt="loding" width="80" height="80"></h1>
 <h3 align="center">A passionate web developer from India</h3>
 <p align="right"><img alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/09/anime-thank-you-gif-11.gif" align="right"></p>
-
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-
-<p align="left"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/></p>
+<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Star Badge"/>
 
 
