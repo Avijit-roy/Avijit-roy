@@ -1,5 +1,5 @@
-<img align="center" alt="Coding" width="100%" height="250" src="https://s8.gifyu.com/images/tech-x-aj.gif">
-<h1 align="center">Hi 👋, I'm Avijit roy   <img src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" alt="loding" width="80" height="80"></h1>
+<img align="center" alt="Coding" width="100%" height="240" src="https://s8.gifyu.com/images/tech-x-aj.gif">
+<h1 align="center">Hi 👋, I'm Avijit roy   <img src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" alt="loding" width="80" height="70"></h1>
 <h3 align="center">A passionate web developer from India</h3>
 <p align="right"><img alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/09/anime-thank-you-gif-11.gif" align="right"></p>
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
