@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" height="240" src="https://raw.githubusercontent.com/Avijit-roy/Images/main/Screenshot 2024-08-10 160144.png">
+<img align="center" alt="Coding" width="100%" height="240" src="https://github.com/Avijit-roy/Images/blob/main/Avijit%20roy%20(1).png">
 <h1 align="center">Hi 👋, I'm Avijit roy   <img src="https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" alt="loding" width="80" height="70"></h1>
 <h3 align="center">A passionate web developer from India</h3>
 <p align="right"><img alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/09/anime-thank-you-gif-11.gif" align="right"></p>
