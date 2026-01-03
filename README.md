@@ -1,5 +1,7 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
+<h1 align="center">Hey 👋 I'm Aj</h1>
+<p align="center">
+  <em>Full Stack Developer | Bug Creator & Debugger | Coffee-Powered Coder ☕</em>
+</p>
 ###
 
 <p align="left">Aj this side...</p>
