@@ -79,11 +79,32 @@ I'm a passionate developer who believes that every bug is just a feature waiting
 
 ---
 
-## 🏆 My Badges 
+## 🏆 My Badges
 
-<div align="left">
-  <img src="https://github.com/Avijit-roy/Images/blob/main/api-security-fundamentals-25-2-hours%20(1).png" alt="api-security-fundamentals" />
+<div align="left" style="display:flex; gap:16px; flex-wrap:wrap;">
+  <img 
+    src="https://raw.githubusercontent.com/Avijit-roy/Images/main/api-security-fundamentals-25-2-hours%20(1).png"
+    alt="API Security Fundamentals"
+    width="120"
+    height="120"
+  />
+
+  <!-- Add more badges like this -->
+  <img 
+    src="https://raw.githubusercontent.com/Avijit-roy/Images/main/your-second-badge.png"
+    alt="Second Badge"
+    width="120"
+    height="120"
+  />
+
+  <img 
+    src="https://raw.githubusercontent.com/Avijit-roy/Images/main/your-third-badge.png"
+    alt="Third Badge"
+    width="120"
+    height="120"
+  />
 </div>
+
 
 ---
 
