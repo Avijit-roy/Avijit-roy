@@ -1,5 +1,9 @@
 <h1 align="center">Hey 👋 I'm Aj</h1>
 <p align="center">
+  <div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/Avijit-roy/Images/refs/heads/main/wave-hi.gif"  />
+</div>
+
   <em>Full Stack Developer | Bug Creator & Debugger | Coffee-Powered Coder ☕</em>
 </p>
 
@@ -81,9 +85,6 @@ I'm a passionate developer who believes that every bug is just a feature waiting
 
 ###
 
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/Avijit-roy/Images/refs/heads/main/wave-hi.gif"  />
-</div>
 
 ###
 
