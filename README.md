@@ -2,11 +2,11 @@
 <p align="center">
   <div align="center">
   <img height="200" src="https://raw.githubusercontent.com/Avijit-roy/Images/refs/heads/main/wave-hi.gif"  />
-</div>
-</p>
+
 
   <em>Full Stack Developer | Bug Creator & Debugger | Coffee-Powered Coder ☕</em>
-
+</div>
+</p>
 <h2 align="left">🚀 About Me</h2>
 
 ###
