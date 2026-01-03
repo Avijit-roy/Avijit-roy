@@ -20,7 +20,7 @@ I'm a passionate developer who believes that every bug is just a feature waiting
 
 ---
 ###
-## 💻 Tech Stack
+## 💻 Tech Stacks i use
 
 <div align="left">
   <h3>Frontend</h3>
@@ -69,16 +69,10 @@ I'm a passionate developer who believes that every bug is just a feature waiting
 
 ---
 
-## 🏆 Badges & Achievements
+## 🏆 My Badges 
 
 <div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Expert" />
-  <img src="https://img.shields.io/badge/React-Proficient-61DAFB?style=for-the-badge&logo=react" alt="React Proficient" />
-  <img src="https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=node.js" alt="Node.js Advanced" />
-  <img src="https://img.shields.io/badge/MongoDB-Proficient-13AA52?style=for-the-badge&logo=mongodb" alt="MongoDB Proficient" />
-  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python" alt="Python Advanced" />
-  <img src="https://img.shields.io/badge/Git-Expert-F1502F?style=for-the-badge&logo=git" alt="Git Expert" />
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-brightgreen?style=for-the-badge" alt="Full Stack Developer" />
+  <img src="https://github.com/Avijit-roy/Images/blob/main/api-security-fundamentals-25-2-hours%20(1).png" alt="api-security-fundamentals" />
 </div>
 
 ---
