@@ -89,22 +89,6 @@ I'm a passionate developer who believes that every bug is just a feature waiting
     height="120"
   />
 
-  <!-- Add more badges like this -->
-  <img 
-    src="https://raw.githubusercontent.com/Avijit-roy/Images/main/your-second-badge.png"
-    alt="Second Badge"
-    width="120"
-    height="120"
-  />
-
-  <img 
-    src="https://raw.githubusercontent.com/Avijit-roy/Images/main/your-third-badge.png"
-    alt="Third Badge"
-    width="120"
-    height="120"
-  />
-</div>
-
 
 ---
 
