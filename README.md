@@ -4,16 +4,18 @@
 </p>
 ###
 
-<p align="left">Aj this side...</p>
+<h2 align="left">🚀 About Me</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+I'm a passionate developer who believes that every bug is just a feature waiting to be discovered. When I'm not accidentally creating new problems, I'm fixing old ones!
 
-###
+- ✨ **Creating** elegant solutions through clean code
+- 📚 **Currently Learning** advanced system design patterns and cloud architecture
+- 🎯 **Goals** Build impactful products that solve real problems | Master full-stack development
+- 🎲 **Fun Fact** I once fixed a critical bug by accident at 3 AM and now I'm terrified to touch that code again 😅  
 
-<p align="left">✨ Creating bugs since... I first touched a keyboard (and proudly debugging them ever since!)<br>📚 I'm currently learning... How to write code that works on the first try (a true developer fantasy).<br>🎯 Goals: Convince my code to run without "mysterious" errors and make Stack Overflow my last resort.<br>🎲 Fun fact: I once fixed a bug by accident and now I live in fear of it breaking again. 😅</p>
-
+---
 ###
 
 <h2 align="left">I like to use</h2>
