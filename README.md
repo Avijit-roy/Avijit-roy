@@ -82,12 +82,14 @@ I'm a passionate developer who believes that every bug is just a feature waiting
 ## 🏆 My Badges
 
 <div align="left" style="display:flex; gap:16px; flex-wrap:wrap;">
+  <a href="https://www.credly.com/badges/2f6a755e-2899-4f46-9b2d-53cb196ff392/public_url" target="_blank" rel="noopener noreferrer">
   <img 
     src="https://raw.githubusercontent.com/Avijit-roy/Images/main/api-security-fundamentals-25-2-hours%20(1).png"
     alt="API Security Fundamentals"
     width="120"
     height="120"
   />
+  </a>
 
 
 ---
