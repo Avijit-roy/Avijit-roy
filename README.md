@@ -2,7 +2,6 @@
 <p align="center">
   <em>Full Stack Developer | Bug Creator & Debugger | Coffee-Powered Coder ☕</em>
 </p>
-###
 
 <h2 align="left">🚀 About Me</h2>
 
