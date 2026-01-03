@@ -16,36 +16,68 @@ I'm a passionate developer who believes that every bug is just a feature waiting
 
 ---
 ###
-
-<h2 align="left">I like to use</h2>
-
-###
+## 💻 Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <h3>Frontend</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" title="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" title="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" title="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" title="CSS3" />
 </div>
+
+<div align="left">
+  <h3>Backend</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" title="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" title="Express" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio" title="Socket.io" />
+</div>
+
+<div align="left">
+  <h3>Databases</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" title="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" title="MySQL" />
+</div>
+
+<div align="left">
+  <h3>Data Science & ML</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" title="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" title="TensorFlow" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter" title="Jupyter" />
+</div>
+
+<div align="left">
+  <h3>Tools & DevOps</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" title="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" title="VS Code" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" title="Linux" />
+</div>
+
+---
+
+## 🏆 Badges & Achievements
+
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Expert" />
+  <img src="https://img.shields.io/badge/React-Proficient-61DAFB?style=for-the-badge&logo=react" alt="React Proficient" />
+  <img src="https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=node.js" alt="Node.js Advanced" />
+  <img src="https://img.shields.io/badge/MongoDB-Proficient-13AA52?style=for-the-badge&logo=mongodb" alt="MongoDB Proficient" />
+  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python" alt="Python Advanced" />
+  <img src="https://img.shields.io/badge/Git-Expert-F1502F?style=for-the-badge&logo=git" alt="Git Expert" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-brightgreen?style=for-the-badge" alt="Full Stack Developer" />
+</div>
+
+---
 
 ###
 
